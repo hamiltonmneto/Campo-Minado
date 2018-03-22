@@ -1,0 +1,10 @@
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\bin\Debug\CampoMinado.exe.config
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\bin\Debug\CampoMinado.exe
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\bin\Debug\CampoMinado.pdb
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\obj\Debug\CampoMinado.csprojResolveAssemblyReference.cache
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\obj\Debug\CampoMinado.Properties.Resources.resources
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\obj\Debug\CampoMinado.csproj.GenerateResource.cache
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\obj\Debug\CampoMinado.csproj.CoreCompileInputs.cache
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\obj\Debug\CampoMinado.exe
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\obj\Debug\CampoMinado.pdb
+C:\Users\Hamil\source\repos\CampoMinado\CampoMinado\obj\Debug\CampoMinado.telaInicial.resources
