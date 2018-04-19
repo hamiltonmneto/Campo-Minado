@@ -51,6 +51,7 @@
     <Compile Include="CampoMinado.Designer.cs">
       <DependentUpon>CampoMinado.cs</DependentUpon>
     </Compile>
+    <Compile Include="Sqm.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CampoMinado.resx">
